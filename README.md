@@ -1,3 +1,3 @@
-# DLR Institute of Software Methods for Product Virtualization
+# Configurations for the dlr-sp organization
 
-See [the homepage](https://www.dlr.de/sp/en/) of the Institute in Dresden for more details.
+See the `profile` subdirectory for the public profile to be displayed.
